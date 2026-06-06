@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "VLDSURVIVALSMP-zbt3.aternos.me:44556",
+    "port": 44556,
     "version": "1.21.1"
   },
   "position": {
